@@ -11,3 +11,5 @@ joblib
 jupyter
 nltk
 wordcloud
+pywhatkit
+tensorflow
