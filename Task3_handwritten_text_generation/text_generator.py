@@ -1,4 +1,3 @@
-# text_generator.py (No Comments)
 
 import tensorflow as tf
 import numpy as np
